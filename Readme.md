@@ -127,6 +127,6 @@ git status
 git add .
 git commit -m "first commit"
 git push -u origin master
-
+https://cursos.alura.com.br/forum/topico-permission-denied-publickey-82429
 
 
