@@ -127,6 +127,20 @@ git status
 git add .
 git commit -m "first commit"
 git push -u origin master
+git push -u origin main
 https://cursos.alura.com.br/forum/topico-permission-denied-publickey-82429
 
+Colocar no github
+Abrir cypress
+npx cypress open
+Clicar em runs
+se nunca rodou o projeto executar o comando
+vai aparecer em runs este
+npx cypress run --record --key d71f987b-98c4-418d-a1e8-422d847c94ad
+clicar no projeto
+logar no github
+autorizar o cypres
+npx cypress run --record --key 10446c60-ea3f-4ddb-9604-7240cf826491
+
+.github/workflows/cypress.yml
 
