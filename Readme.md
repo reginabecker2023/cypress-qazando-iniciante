@@ -144,3 +144,6 @@ npx cypress run --record --key 10446c60-ea3f-4ddb-9604-7240cf826491
 
 .github/workflows/cypress.yml
 
+mudar algo pra commit
+
+alterar o arquivo dentro da minha pipe
